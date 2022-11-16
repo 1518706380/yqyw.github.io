@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+img {
+	width: 1520px;
+	height: 750px;
+}
+
+.w {
+	/* display: none; */
+	background-color: #942A53;
+	width: 1820px;
+	margin: auto;
+}
+
+
+.index {
+	/* display: none; */
+	position: relative;
+	width: 1520px;
+	height: 750px;
+	background-color: #6495ED;
+
+}
